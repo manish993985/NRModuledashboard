@@ -1,3 +1,3 @@
 variable "dashboard" {
-  type = any
+  type = map
 }
